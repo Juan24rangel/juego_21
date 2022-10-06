@@ -1,1 +1,1 @@
-# juego_21
+# Realizar el juego de cartas conocido como "la 21"
